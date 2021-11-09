@@ -1,8 +1,5 @@
-# Neocis Software Assesment
-
 ## Steps to Run Code
 Run the index.html file which is the acess file which contains the link to part1 and part 2 html files
-
 
 ## Part 1
 ### Problem
