@@ -1,0 +1,26 @@
+
+h1{
+    margin: 25px;
+}
+
+
+#linkWrapper{
+    margin: 50px;
+    width: 400px;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#canvasWrapper{
+    margin-top: 100px;
+    display:flex;
+    justify-content: space-around;
+}
+
+#canvasGrid {
+    border: 1px solid black;
+}
+
+
+
